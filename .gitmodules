@@ -2,9 +2,6 @@
 	path = Sources/OpenXcom
 	url = https://github.com/MeridianOXC/OpenXcom
 	branch = ios
-[submodule "Sources/yaml-cpp"]
-	path = Sources/yaml-cpp
-	url = https://github.com/jbeder/yaml-cpp
 [submodule "Sources/SDL_gfx"]
 	path = Sources/SDL_gfx
 	url = https://github.com/sfalexrog/SDL_gfx
